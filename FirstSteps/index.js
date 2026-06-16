@@ -6,4 +6,4 @@
 // Commenting like in java
 
 document.getElementById("MyH1").textContent  = `Hello`;
-document.getElementById("MyP").textContent = `I like zgery`;
+document.getElementById("MyP").textContent = `I like zgery very much`;
